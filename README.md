@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="" />
+<img width="55%" align="right" alt="Github" src="https://github.com/gustavo-gvm/gustavo-gvm/blob/main/code.gif" />
 
 - 👨🏻‍💻 I’m currently working on [everis](https://www.everis.com/brazil/pt-br/home-br);
 - 🚀 I’m currently learning React and React Native through [Rocketseat](https://github.com/rocketseat-education);
@@ -36,8 +36,8 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg" alt="CSS"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"></code>
   <br />
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="NodeJS"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="NodeJS"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"></code>
 </p>
